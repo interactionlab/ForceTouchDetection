@@ -9,7 +9,7 @@ As the touchscreen is the most successful input method of current mobile devices
 
 This work can be cited as follows:
 <pre>
-@inproceedings{Boceck:2019:PressureTouch,
+@inproceedings{Boceck:2019:ForceTouchDetection,
 title = {Force Touch Detection on Capacitive Sensors using Deep Neural Networks},
 author = {Boceck, Tobias and Sprott, Sascha and Le, Huy Viet and Mayer, Sven},
 year = {2019},
